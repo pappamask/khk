@@ -2,9 +2,6 @@ import streamlit as st
 import os
 
 
-
-st.write("Current Working Directory:", os.getcwd())
-
 st.title('Kong Hans Kælder - 07-03-2025')
 st.header('Amuse Bouche')
 st.image(r"/mount/src/khk/khk/2025-03-07 19.24.31.jpg")
