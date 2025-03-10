@@ -49,3 +49,4 @@ st.image(r"/mount/src/khk/khk/2025-03-08 00.47.17.jpg")
 st.image(r"/mount/src/khk/khk/2025-03-08 00.47.21.jpg")
 st.image(r"/mount/src/khk/khk/2025-03-08 00.47.24.jpg")
 
+st.text("10% raise, tak")
