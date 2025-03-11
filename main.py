@@ -1,6 +1,14 @@
 import streamlit as st
-import os
+# import os
 
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
 
 st.title('Kong Hans Kælder - 07-03-2025')
 st.header('Amuse Bouche')
